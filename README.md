@@ -1,2 +1,2 @@
 # creacte
-CReactE - React-related Things
+## ${\color{red}CReactE}$ - React-related Things
